@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Issam Nadzi
 
-<!--
-**IssamNadzi/IssamNadzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student | 🛡️ reverse engineering Enthusiast | 💻 Developer Maybe?
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 My Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [StreetWatch](https://github.com/yourusername/streetwatch) | Real-time facial recognition to identify criminals. | Python, OpenCV, Tkinter |
+| [Secure Horizon](https://github.com/yourusername/secure-horizon) | Web trust service using encryption and hashing. | HTML, CSS, JavaScript, OpenSSL |
+| [Linux Hardening App](https://github.com/yourusername/linux-hardening) | Shell script for securing Linux systems. | Bash, Kali Linux |
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: issamnadzi048@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/issamnadzi/)
+- 🌐 Portfolio Website: [Coming Soon]
+
