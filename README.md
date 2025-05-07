@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Issam Nadzi
 
-🎓 Cybersecurity Student | 🛡️ reverse engineering Enthusiast | 💻 Developer Maybe?
+🎓 Cybersecurity Student | 🛡️ Reverse Engineering Enthusiast | 💻 Developer Maybe?
 
 ---
 
@@ -9,8 +9,8 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [StreetWatch](https://github.com/IssamNadzi/streetwatch) | Real-time facial recognition to identify criminals. | Python, OpenCV, Tkinter |
-| [Secure Horizon](https://github.com/IssamNadzi/secure-horizon) | Web trust service using encryption and hashing. | HTML, CSS, JavaScript, OpenSSL |
-| [Linux Hardening App](https://github.com/IssamNadzi/linux-hardening) | Shell script for securing Linux systems. | Bash, Kali Linux |
+| [Secure Horizon](https://github.com/IssamNadzi/securehorizon) | Web trust service using encryption and hashing. | HTML, CSS, JavaScript, OpenSSL |
+
 
 ---
 
@@ -18,5 +18,5 @@
 
 - 📧 Email: issamnadzi048@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/issamnadzi/)
-- 🌐 Portfolio Website: [Coming Soon]
+- 🌐 Portfolio Website: https://issamnadzi.github.io/
 
