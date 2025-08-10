@@ -17,6 +17,6 @@
 ## 📫 Connect With Me
 
 - 📧 Email: issamnadzi048@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/issamnadzi/)
+- 💼 LinkedIn: https://www.linkedin.com/in/issamnadzi
 - 🌐 Portfolio Website: https://issamnadzi.github.io/
 
